@@ -1,0 +1,66 @@
+<svg width="1512" height="1440" viewBox="0 0 1512 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.6">
+<mask id="mask0_1_3556" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="135" y="0" width="1440" height="1440">
+<g clip-path="url(#clip0_1_3556)">
+<rect width="1440" height="1440" transform="matrix(0 -1 1 0 135 977)" fill="url(#paint0_radial_1_3556)"/>
+</g>
+</mask>
+<g mask="url(#mask0_1_3556)">
+<path d="M135 0V1440" stroke="#424355"/>
+<path d="M195 0V1440" stroke="#424355"/>
+<path d="M255 0V1440" stroke="#424355"/>
+<path d="M315 0V1440" stroke="#424355"/>
+<path d="M375 0V1440" stroke="#424355"/>
+<path d="M435 0V1440" stroke="#424355"/>
+<path d="M495 0V1440" stroke="#424355"/>
+<path d="M555 0V1440" stroke="#424355"/>
+<path d="M615 0V1440" stroke="#424355"/>
+<path d="M675 0V1440" stroke="#424355"/>
+<path d="M735 0V1440" stroke="#424355"/>
+<path d="M795 0V1440" stroke="#424355"/>
+<path d="M855 0V1440" stroke="#424355"/>
+<path d="M915 0V1440" stroke="#424355"/>
+<path d="M975 0V1440" stroke="#424355"/>
+<path d="M1035 0V1440" stroke="#424355"/>
+<path d="M1095 0V1440" stroke="#424355"/>
+<path d="M1155 0V1440" stroke="#424355"/>
+<path d="M1215 0V1440" stroke="#424355"/>
+<path d="M1275 0V1440" stroke="#424355"/>
+<path d="M1335 0V1440" stroke="#424355"/>
+<path d="M1395 0V1440" stroke="#424355"/>
+<path d="M1455 0V1440" stroke="#424355"/>
+<path d="M-105 60L1815 60" stroke="#424355"/>
+<path d="M-105 120L1815 120" stroke="#424355"/>
+<path d="M-105 180L1815 180" stroke="#424355"/>
+<path d="M-105 240L1815 240" stroke="#424355"/>
+<path d="M-105 300L1815 300" stroke="#424355"/>
+<path d="M-105 360L1815 360" stroke="#424355"/>
+<path d="M-105 420L1815 420" stroke="#424355"/>
+<path d="M-105 480L1815 480" stroke="#424355"/>
+<path d="M-105 540L1815 540" stroke="#424355"/>
+<path d="M-105 600L1815 600" stroke="#424355"/>
+<path d="M-105 660L1815 660" stroke="#424355"/>
+<path d="M-105 720L1815 720" stroke="#424355"/>
+<path d="M-105 780L1815 780" stroke="#424355"/>
+<path d="M-105 840L1815 840" stroke="#424355"/>
+<path d="M-105 900L1815 900" stroke="#424355"/>
+<path d="M-105 960L1815 960" stroke="#424355"/>
+<path d="M-105 1020L1815 1020" stroke="#424355"/>
+<path d="M-105 1080L1815 1080" stroke="#424355"/>
+<path d="M-105 1140L1815 1140" stroke="#424355"/>
+<path d="M-105 1200L1815 1200" stroke="#424355"/>
+<path d="M-105 1260L1815 1260" stroke="#424355"/>
+<path d="M-105 1320L1815 1320" stroke="#424355"/>
+<path d="M-105 1380L1815 1380" stroke="#424355"/>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_1_3556" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(720 720) rotate(90) scale(720 720)">
+<stop/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_1_3556">
+<rect width="1440" height="1440" fill="white" transform="matrix(0 -1 1 0 135 1440)"/>
+</clipPath>
+</defs>
+</svg>
